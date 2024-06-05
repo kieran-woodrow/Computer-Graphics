@@ -39,8 +39,8 @@ This project delved into computer graphics and shaders in C++ as well as impleme
 
 ## 📝 Installation
 
-1. **Clone the repository:**
-2. **Navigate to the project directory:**
+1. Clone the repository
+2. Navigate to either task1, task2, or task3+4.
 
 ---
 
