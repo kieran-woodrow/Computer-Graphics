@@ -59,15 +59,10 @@ Use any browser. I prefer Chrome
 
 ## 📷 Screenshots
 
-Include screenshots to help users understand what the project looks like. You can add images using the following format:
+![x-axis](https://github.com/kieran-woodrow/Computer-Graphics/blob/main/Assets/GIF-2024-06-05-05-44-42.gif)
 
-![Results before PCA algorithm](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2005.26.07.png)
+![x-axis and wireframe](https://github.com/kieran-woodrow/Computer-Graphics/blob/main/Assets/GIF-2024-06-05-05-47-23.gif)
 
-![Results after PCA algorithm](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2005.26.13.png)
+![y-axis and wireframe](https://github.com/kieran-woodrow/Computer-Graphics/blob/main/Assets/GIF-2024-06-05-05-47-45.gif)
 
-![Snippet in code](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2004.47.27.png)
-
-![Line of best fit for PCA](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2004.47.52.png)
-
-![Training accuracy results table](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2004.48.25.png)
-
+![z-axis and wireframe](https://github.com/kieran-woodrow/Computer-Graphics/blob/main/Assets/GIF-2024-06-05-05-48-07.gif)
