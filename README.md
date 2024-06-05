@@ -2,22 +2,23 @@
 Computer graphics and mechanics.
 
 ---
-## 🗂️ Table of Contents
+## 🗂️ Table Of Contents
 
-- [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Running the Project](#running-the-project)
-- [Screenshots](#screenshots)
+- [Project Overview](#-project-overview)
+- [Technology Stack](#-technology-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Running The Project](#-running-the-project)
+- [Screenshots](#-screenshots)
 ---
 
-## :books: Project Overview
+## 📚 Project Overview
 
 This project delved into computer graphics and shaders in C++ as well as implementing the mechanics of the maths and vector calculations to get a 3D house to rotate on it's x-axis, y-axis and z-axis as well as displaying either with a wireframe or shaded in.
 
 ---
 
-## :hammer_and_wrench: Technology Stack 
+## 🛠️ Technology Stack 
 
 ### Project code language used
 
@@ -50,7 +51,7 @@ Use any browser. I prefer Chrome
 
 ---
 
-## 🏃🏻‍♂️ Running the Project
+## 🏃🏻‍♂️ Running The Project
 
 1. Open index.html
 
