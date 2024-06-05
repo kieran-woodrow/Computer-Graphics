@@ -9,7 +9,6 @@ Computer graphics and mechanics.
 - [Usage](#usage)
 - [Running the Project](#running-the-project)
 - [Screenshots](#screenshots)
-- [Report](#report)
 ---
 
 ## :books: Project Overview
